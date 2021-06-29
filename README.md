@@ -3,7 +3,7 @@
 <div align="center">
 
  </div>
-<img src="https://github.com/singhanshika311/readme/blob/main/20200903_221913.jpg" width=200 height=300 align="left">
+<img src="https://github.com/Saumya2001-PSIT/Saumya2001-PSIT/blob/main/saumya.jpg" width=200 height=300 align="left">
 
 
 <div align="center">
