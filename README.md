@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h3 align="center">FROENTEND WEB DEVELOPER 👨‍💻</h3>
+<h3 align="center">FRONTEND WEB DEVELOPER 👨‍💻</h3>
 
  🔭 I’m currently studying in **PSIT**
 
