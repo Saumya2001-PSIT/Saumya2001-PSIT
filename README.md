@@ -1,4 +1,10 @@
-<h2>hello</h2>
+<h1 align="center">Hi 👋</h1>
+
+<div align="center">
+
+ </div>
+<img src="https://github.com/singhanshika311/readme/blob/main/20200903_221913.jpg" width=200 height=300 align="left">
+
 
 <div align="center">
 
